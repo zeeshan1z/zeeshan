@@ -29,7 +29,7 @@ Follow These Steps for Installation
 $pkg install php
 $pkg install git
 $pkg install mc
-$ git clone https://github.com/sanjidtk/masslooker
+$ git clone https://github.com/zeeshan1z/zeeshan
 $ cd masslooker
 $ php login.php
 $ php run.php
