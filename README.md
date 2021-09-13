@@ -30,7 +30,7 @@ $pkg install php
 $pkg install git
 $pkg install mc
 $ git clone https://github.com/zeeshan1z/zeeshan
-$ cd masslooker
+$ cd zeeshan
 $ php login.php
 $ php run.php
 ```
